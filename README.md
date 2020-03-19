@@ -3,7 +3,7 @@ Source code used for Turtle Snake Project on YouTube.</br>
 https://www.youtube.com/channel/UCQB4ueX-jalxxD6k37eLCjA
 
 ## Python
-All the source code is written in Python. All written for Python 3, so please follow the instruction here to have Python 3 environment on your computer.
+All the source code is written in Python. All written for Python 3, so please follow the instruction [here](https://realpython.com/installing-python/) to have Python 3 environment on your computer.
 
 ## How to Download the Code
 1. Install Git if you have not already.
