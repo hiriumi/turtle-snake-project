@@ -1,5 +1,5 @@
 # Turtle Snake Project
-# YouTube URL here.
+# https://www.youtube.com/watch?v=g_8xXhJXj3U
 import turtle
 turtle.setup(width=0.5, height=0.5)
 screen = turtle.Screen()
