@@ -1,3 +1,5 @@
+# This file was used for Fireworks Shuriken YouTube video
+# URL here later.
 import turtle
 
 turtle.setup(width=0.5, height=0.5)
