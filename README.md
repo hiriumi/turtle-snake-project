@@ -1,5 +1,5 @@
 # Turtle Snake Project
-Source code used for Turtle Snake Project on YouTube.</br>
+Source code used for [Turtle Snake Project](https://www.youtube.com/channel/UCQB4ueX-jalxxD6k37eLCjA) on YouTube.</br>
 https://www.youtube.com/channel/UCQB4ueX-jalxxD6k37eLCjA
 
 ## Python
