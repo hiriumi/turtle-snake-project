@@ -1,5 +1,6 @@
 # Turtle Snake Project
-# URL
+# https://www.youtube.com/watch?v=3D3q1zWDKU0
+
 import turtle
 import random
 import math
